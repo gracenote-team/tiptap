@@ -43,8 +43,8 @@
     "dist"
   ],
   "dependencies": {
-    "@tiptap/core": "workspace:^",
-    "@tiptap/pm": "workspace:^",
+    "@tiptap/core": "^3.4.1",
+    "@tiptap/pm": "^3.4.1",
     "happy-dom": "^18.0.1"
   },
   "repository": {

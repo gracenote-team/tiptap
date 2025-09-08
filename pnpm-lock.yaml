@@ -885,10 +885,10 @@ importers:
   packages/html:
     dependencies:
       '@tiptap/core':
-        specifier: workspace:^
+        specifier: ^3.4.1
         version: link:../core
       '@tiptap/pm':
-        specifier: workspace:^
+        specifier: ^3.4.1
         version: link:../pm
       happy-dom:
         specifier: ^18.0.1
