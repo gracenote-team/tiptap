@@ -883,7 +883,7 @@ importers:
         version: link:../pm
 
   packages/html:
-    devDependencies:
+    dependencies:
       '@tiptap/core':
         specifier: workspace:^
         version: link:../core
